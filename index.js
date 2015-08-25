@@ -76,9 +76,9 @@ function sendSms(data) {
 //   action: 'send',
 //   account: 'mofe',
 //   password: process.env.password,
-//   mobile: '18079309053', //////////替换这里
+//   mobile: '18077779999', //////////替换这里
 //   content: smsCompiled({
-//     name: '李勇'
+//     name: 'xxx'
 //   }), ///////替换
 //   sendTime: '2015-08-25 11:00:00',
 //   AddSign: 'N'
