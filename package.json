@@ -1,0 +1,22 @@
+{
+  "name": "sendsms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MofeLee/sendsms.git"
+  },
+  "author": "Mofe Lee (mofe@me.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MofeLee/sendsms/issues"
+  },
+  "homepage": "https://github.com/MofeLee/sendsms#readme",
+  "dependencies": {
+    "csv": "^0.4.6"
+  }
+}
